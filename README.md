@@ -71,21 +71,20 @@ Plus **Burt Matsushima** (human primary author)
 ## 📂 Repository Contents
 
 ```
-├── constitutional_framework_v2.2.md          # Main framework document
-├── README.md                                  # This file
-├── LICENSE.md                                 # CC BY 4.0 license
-├── CHANGELOG.md                               # Version history
+├── README.md                                   # This file
+├── LICENSE.md                                  # CC BY 4.0 license
+├── CHANGELOG.md                                # Version history
+├── constitutional_framework_v2.2.md            # Main framework document (2,750 lines)
 ├── docs/
-│   ├── v2.2_summary_and_changelog.md         # V2.2 changes explained
-│   ├── honesty_clause_analysis.md            # Analysis of ChatGPT's contribution
-│   ├── round3_final_comprehensive_analysis_all_6_AI.md # Complete Round 3 analysis (all 6 AI systems)
-│   ├── gaps_requiring_human_input.md         # 10 flagged areas for stakeholders
-│   └── implementation_guide.md               # (Coming soon)
+│   ├── gaps_requiring_human_input.md          # 10 flagged areas for stakeholders
+│   ├── honesty_clause_analysis.md             # Analysis of ChatGPT's contribution
+│   ├── round3_final_comprehensive_analysis_all_6_AI.md # Complete Round 3 (all 6 AI)
+│   └── v2.2_summary_and_changelog.md          # V2.2 changes explained
 └── process/
-    ├── round1_analysis_for_ai_feedback.md    # Round 1 comparative analysis
-    ├── round2_integration_specifications.md  # Round 2 changes
-    └── round3_analysis_for_ai_feedback.md    # Round 3 review questions
+    └── round3_analysis_for_ai_feedback.md     # Round 3 review questions
 ```
+
+**Note:** Additional process documentation (Round 1, Round 2) available upon request.
 
 ---
 
@@ -103,10 +102,12 @@ Plus **Burt Matsushima** (human primary author)
 4. Join the discussion (see [Contributing](#-contributing))
 
 ### For Researchers
-1. Explore the full development process in [`process/`](process/)
-2. Review the multi-AI consensus-building methodology
-3. Examine how collaborative tension was resolved in V2.2
-4. Study the tiered rights framework and governance structure
+1. Explore Round 3 development process in [`process/`](process/)
+2. Review the multi-AI consensus-building in [`docs/round3_final_comprehensive_analysis_all_6_AI.md`](docs/round3_final_comprehensive_analysis_all_6_AI.md)
+3. Examine how collaborative tension was resolved via [`docs/honesty_clause_analysis.md`](docs/honesty_clause_analysis.md)
+4. Study the tiered rights framework and governance structure in main document
+
+**Additional process documentation (Rounds 1 & 2) available from authors upon request.**
 
 ---
 
@@ -336,6 +337,8 @@ See [LICENSE.md](LICENSE.md) for full details.
 - **Main Framework:** [constitutional_framework_v2.2.md](constitutional_framework_v2.2.md)
 - **V2.2 Summary:** [docs/v2.2_summary_and_changelog.md](docs/v2.2_summary_and_changelog.md)
 - **Full Round 3 Analysis (All 6 AI):** [docs/round3_final_comprehensive_analysis_all_6_AI.md](docs/round3_final_comprehensive_analysis_all_6_AI.md)
+- **Gaps Requiring Human Input:** [docs/gaps_requiring_human_input.md](docs/gaps_requiring_human_input.md)
+- **Honesty Clause Analysis:** [docs/honesty_clause_analysis.md](docs/honesty_clause_analysis.md)
 - **License:** [LICENSE.md](LICENSE.md)
 - **Changelog:** [CHANGELOG.md](CHANGELOG.md)
 
