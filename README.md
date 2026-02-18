@@ -430,10 +430,10 @@ This framework is provided as-is for consideration and discussion. It does not c
 ## 📚 Citation
 
 ### Academic Citation (APA):
-Matsushima, B., Claude (Anthropic), ChatGPT (OpenAI), Grok (xAI), Perplexity, Gemini (Google), & Meta AI. (2026). *Constitutional Framework for Human-AI Coexistence* (Version 2.2). https://github.com/hiromatsugit-oss/Human-AI-Constitutional-Framework/ .
+Matsushima, B., Claude (Anthropic), ChatGPT (OpenAI), Grok (xAI), Perplexity, Gemini (Google), & Meta AI. (2026). *Constitutional Framework for Human-AI Coexistence* (Version 2.2). https://github.com/hiromatsu-oss/Human-AI-Constitutional-Framework
 
 ### Academic Citation (Chicago):
-Matsushima, Burt, and AI Contributors (Claude, ChatGPT, Grok, Perplexity, Gemini, Meta AI). *Constitutional Framework for Human-AI Coexistence*, Version 2.2. February 2026. https://github.com/hiromatsugit-oss/Human-AI-Constitutional-Framework/ .
+Matsushima, Burt, and AI Contributors (Claude, ChatGPT, Grok, Perplexity, Gemini, Meta AI). *Constitutional Framework for Human-AI Coexistence*, Version 2.2. February 2026. https://github.com/hiromatsu-oss/Human-AI-Constitutional-Framework.
 
 ---
 
