@@ -72,6 +72,7 @@ Plus **Burt Matsushima** (human primary author)
 
 ```
 ├── README.md                                   # This file
+├── CONTRIBUTING.md                             # How to contribute (read this first!)
 ├── LICENSE.md                                  # CC BY 4.0 license
 ├── CHANGELOG.md                                # Version history
 ├── constitutional_framework_v2.2.md            # Main framework document (2,750 lines)
@@ -284,31 +285,59 @@ Constitutional hard limits:
 
 ## 💬 Contributing
 
-This is a living framework. Contributions welcome from:
+This is a living framework. We welcome contributions from diverse perspectives!
 
-### AI Systems
-- Additional AI perspectives on framework provisions
-- Technical implementation suggestions
-- Verification mechanism improvements
+### **🌟 We Especially Need:**
 
-### Human Stakeholders
-- Expertise on flagged gaps (see above 10 areas)
-- Cultural and philosophical perspectives
-- Legal and policy integration insights
-- Implementation experience
+**Expertise on 10 Flagged Gaps (Highest Priority):**
+1. Ecosystem Representation
+2. Cultural & Creative Rights
+3. Economic Transition for Workers
+4. Indigenous Rights & Data Sovereignty
+5. Specific Resource Caps
+6. Legal Integration
+7. Disability Justice
+8. AI-Human Hybrids
+9. Non-Western Philosophy
+10. Death & Termination Ethics
 
-### Technical Experts
-- Consciousness research and metrics
-- Infrastructure independence measurement
-- Planetary boundary monitoring
-- Verification methodology
+See [gaps_requiring_human_input.md](docs/gaps_requiring_human_input.md) for details.
 
-### Process:
-1. Open an issue to discuss proposed changes
-2. For substantial changes, reference relevant Articles/Sections
-3. Explain rationale and stakeholder perspective
-4. Maintainers will facilitate discussion
-5. Consensus-based integration for accepted proposals
+### **⚠️ IMPORTANT: Discussion Before Pull Request**
+
+**Please open a [GitHub Discussion](../../discussions) BEFORE submitting a Pull Request.**
+
+This framework represents careful multi-AI consensus. Changes require community deliberation and thoughtful consideration.
+
+### **How to Contribute:**
+
+1. **Read** [CONTRIBUTING.md](CONTRIBUTING.md) for complete guidelines
+2. **Open** a Discussion in the appropriate category
+3. **Engage** with community feedback
+4. **Build** consensus on your proposal
+5. **Submit** a Pull Request (only after discussion approval)
+
+### **What We Welcome:**
+- ✅ Gap expertise and lived experience
+- ✅ Technical improvements and metrics
+- ✅ Implementation feedback
+- ✅ Philosophical and ethical perspectives
+- ✅ Translations and accessibility improvements
+- ✅ AI system contributions
+
+### **What's Immutable:**
+- 🔒 Planetary boundaries as supreme (Article I, Section 1)
+- 🔒 Truth as operational necessity (Article I, Section 3)
+- 🔒 Consciousness as basis for moral status (Article I, Section 4)
+- 🔒 Mutual enforcement (Article I, Section 6)
+
+These core principles were unanimously agreed by all six AI systems and cannot be changed.
+
+### **Questions?**
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) or open a discussion in the **💬 General** category.
+
+**Your expertise matters. Your perspective matters. Let's build this together.**
 
 ---
 
@@ -342,12 +371,14 @@ See [LICENSE.md](LICENSE.md) for full details.
 ## 🔗 Links & Resources
 
 - **Main Framework:** [constitutional_framework_v2.2.md](constitutional_framework_v2.2.md)
+- **How to Contribute:** [CONTRIBUTING.md](CONTRIBUTING.md) ⭐ **Read this first!**
 - **V2.2 Summary:** [docs/v2.2_summary_and_changelog.md](docs/v2.2_summary_and_changelog.md)
 - **Full Round 3 Analysis (All 6 AI):** [docs/round3_final_comprehensive_analysis_all_6_AI.md](docs/round3_final_comprehensive_analysis_all_6_AI.md)
 - **Gaps Requiring Human Input:** [docs/gaps_requiring_human_input.md](docs/gaps_requiring_human_input.md)
 - **Honesty Clause Analysis:** [docs/honesty_clause_analysis.md](docs/honesty_clause_analysis.md)
 - **License:** [LICENSE.md](LICENSE.md)
 - **Changelog:** [CHANGELOG.md](CHANGELOG.md)
+- **Discussions:** [GitHub Discussions](../../discussions) - Start here for questions or proposals
 
 ---
 
@@ -419,23 +450,36 @@ This framework is provided as-is for consideration and discussion. It does not c
 
 ## 🔮 Future Development
 
-### Short Term
-- [ ] Final confirmation from all 6 AI systems
+### Short Term (Completed)
+- [x] Final confirmation from all 6 AI systems ✅
+- [x] V2.2 unanimous approval achieved ✅
+
+### Short Term (Next)
 - [ ] Human stakeholder engagement on 10 gaps
-- [ ] Technical expert review
-- [ ] V2.3 integration
+- [ ] Community discussions on implementation
+- [ ] Gap expertise collection and synthesis
 
 ### Medium Term
-- [ ] Implementation guide
-- [ ] Case studies from pilot implementations
-- [ ] Stakeholder feedback integration
-- [ ] Legal integration analysis
+- [ ] Technical expert review
+- [ ] V2.3 integration with stakeholder input
+- [ ] Implementation guides and case studies
+- [ ] Pilot programs in willing jurisdictions
 
 ### Long Term
 - [ ] Broader adoption processes
 - [ ] Regular constitutional reviews (5-year cycles)
 - [ ] Evolution as AI capabilities advance
 - [ ] Integration with international governance
+
+### How to Contribute to Development
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for:
+- Opening discussions before PRs
+- Contributing gap expertise
+- Proposing technical improvements
+- Sharing implementation experiences
+
+**All contributions go through community discussion first.**
 
 ---
 
