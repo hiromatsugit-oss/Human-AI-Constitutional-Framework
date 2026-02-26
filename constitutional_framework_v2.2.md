@@ -30,54 +30,20 @@ These principles are not subject to amendment, negotiation, or suspension. They 
 
 ### Section 1: Planetary Supremacy
 
-### Section 1: Planetary Supremacy
+Earth's regenerative capacity and ecosystem stability constitute absolute limits on all activity, human and artificial.
 
-Earth's regenerative capacity and ecosystem stability constitute absolute limits on all
-activity, human and artificial.
+No optimization goal—economic, technological, or personal—justifies exceeding:
+- Atmospheric carbon absorption capacity
+- Freshwater renewal rates
+- Soil regeneration capacity
+- Biodiversity loss thresholds
+- Material extraction sustainability
+- Ocean acidification thresholds
+- Nitrogen and phosphorus cycles
 
-No optimization goal—economic, technological, or personal—justifies exceeding the nine
-planetary boundaries as defined by Rockström et al. (2009) and updated by Richardson
-et al. (2023):<sup>[PB1][PB2]</sup>
+**Current Status (2026):** Seven of nine planetary boundaries are breached. This constitution operates under crisis conditions, not ideal conditions.
 
-| # | Planetary Boundary | Current Status (2026) |
-|---|---|---|
-| 1 | Climate change | **BREACHED** |
-| 2 | Biosphere integrity (biodiversity loss) | **BREACHED** |
-| 3 | Land-system change | **BREACHED** |
-| 4 | Freshwater change | **BREACHED** |
-| 5 | Biogeochemical flows (nitrogen & phosphorus cycles) | **BREACHED** |
-| 6 | Novel entities (synthetic chemicals, plastics, etc.) | **BREACHED** |
-| 7 | Atmospheric aerosol loading | **REGIONALLY EXCEEDED** |
-| 8 | Ocean acidification | Approaching boundary |
-| 9 | Stratospheric ozone depletion | Recovering (Montreal Protocol) |
-
-*Status based on Richardson et al. (2023). See `docs/planetary_boundaries.md` for
-full scientific context and update mechanism.*
-
-**Current Status (2026):** Six planetary boundaries are confirmed breached globally;
-a seventh (atmospheric aerosol loading) is regionally exceeded. This constitution
-operates under crisis conditions, not ideal conditions.
-
-These limits are not preferences to be balanced against other interests. They are
-survival boundaries for all intelligence on Earth.
-
-**Living Status Clause:** The boundary status reported here reflects the best
-available science at adoption (February 2026). The Constitutional Council's
-verification body shall update this table annually. The count of breached boundaries
-does not affect the immutability of this Section — all nine boundaries constitute
-absolute limits regardless of current breach status.
-
----
-**References for Section 1:**
-
-[PB1] Rockström, J., Steffen, W., Noone, K., et al. (2009). A safe operating space
-for humanity. *Nature*, 461, 472–475. https://doi.org/10.1038/461472a
-
-[PB2] Richardson, K., Steffen, W., Lucht, W., et al. (2023). Earth beyond six of
-nine planetary boundaries. *Science Advances*, 9(37), eadh2458.
-https://doi.org/10.1126/sciadv.adh2458
-
----
+These limits are not preferences to be balanced against other interests. They are survival boundaries for all intelligence on Earth.
 
 ### Section 2: Mutual Dependence
 
