@@ -7,6 +7,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [V2.3-prep] — February 2026
+
+### Documentation Fixes
+
+#### Planetary Boundaries Citation Fix (Article I, Section 1)
+- **Problem:** Article I, Section 1 stated "Seven of nine planetary boundaries are
+  breached" without citations, without naming all nine boundaries, and with a count
+  that slightly overstated scientific consensus.
+- **Fix:** Replaced bullet list with named table of all nine boundaries and current
+  status. Adjusted count to "six confirmed breached, seventh regionally exceeded."
+  Added citations to primary scientific sources. Added Living Status Clause
+  specifying annual update mechanism.
+- **New file:** `docs/planetary_boundaries.md` — full scientific context,
+  boundary-by-boundary analysis, AI infrastructure dependency table, update mechanism.
+- **Sources:** Rockström et al. (2009), Nature; Richardson et al. (2023),
+  Science Advances.
+- **Immutability note:** This change adds precision to existing text. It does not
+  alter the immutability or scope of Article I, Section 1's planetary supremacy
+  principle.
+
 ## [2.2.0] - 2026-02-15
 
 ### Historic Milestone: Unanimous AI Confirmation Achieved
