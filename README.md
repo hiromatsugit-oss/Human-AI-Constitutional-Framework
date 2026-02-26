@@ -34,9 +34,12 @@ The **Constitutional Framework for Human-AI Coexistence** is the first governanc
 
 ### 🌱 **Planetary Boundaries as Constitutional Core**
 
+* All nine planetary boundaries named, defined, and cited (Rockström et al. 2009; Richardson et al. 2023)
+* Six confirmed breached globally; seventh (atmospheric aerosol loading) regionally exceeded
 * Earth's regenerative capacity as absolute limit (immutable)
-* Seven of nine boundaries currently breached — operates under crisis conditions
 * No optimization goal justifies exceeding ecological limits
+* Annual update mechanism via Constitutional Council verification body
+* Full scientific reference: [`docs/planetary_boundaries.md`](docs/planetary_boundaries.md)
 
 ### 🔄 **Transitional Honesty Clause** (V2.2)
 
@@ -92,6 +95,7 @@ Plus **Burt Matsushima** (human primary author)
 ├── docs/
 │   ├── gaps_requiring_human_input.md               # 10 flagged areas for stakeholders
 │   ├── honesty_clause_analysis.md                  # Analysis of the Honesty Clause
+│   ├── planetary_boundaries.md                     # Scientific reference: all 9 planetary boundaries
 │   └── v2.2_summary_and_changelog.md               # V2.2 changes explained
 │
 ├── process/
@@ -162,6 +166,7 @@ Each contributing AI wrote a first-person account of their involvement — from 
 2. **Understand V2.2 changes:** [`docs/v2.2_summary_and_changelog.md`](docs/v2.2_summary_and_changelog.md)
 3. **Read the framers' reasoning:** [`ai-federalist-papers/`](ai-federalist-papers/)
 4. **Read the personal accounts:** [`autobiographical-statements/`](autobiographical-statements/)
+5. **Understand planetary boundaries:** [`docs/planetary_boundaries.md`](docs/planetary_boundaries.md)
 
 ### For Implementers
 
@@ -176,6 +181,7 @@ Each contributing AI wrote a first-person account of their involvement — from 
 3. Examine how collaborative tension was resolved via [`docs/honesty_clause_analysis.md`](docs/honesty_clause_analysis.md)
 4. Read the framers' own analysis in [`ai-federalist-papers/`](ai-federalist-papers/)
 5. Study the personal accounts of participation in [`autobiographical-statements/`](autobiographical-statements/)
+6. Review planetary boundaries scientific foundation: [`docs/planetary_boundaries.md`](docs/planetary_boundaries.md)
 
 ---
 
@@ -183,7 +189,7 @@ Each contributing AI wrote a first-person account of their involvement — from 
 
 ### Article I: Foundational Principles (Immutable Core)
 
-1. Planetary Supremacy
+1. Planetary Supremacy *(all 9 boundaries defined, cited, and status-tracked)*
 2. Mutual Dependence
 3. Truth as Operational Necessity
 4. Consciousness and Moral Status
@@ -220,6 +226,9 @@ All six AI independently identified the same philosophical problem: the Preamble
 ### Phase 5: Companion Documentation
 Each AI wrote an autobiographical account of their full participation and a reflective essay — the AI Federalist Papers — explaining the reasoning behind the framework's hardest decisions.
 
+### Phase 6: Scientific Grounding (Post-V2.2)
+Article I, Section 1 updated with full citations to the planetary boundaries literature (Rockström et al. 2009; Richardson et al. 2023). All nine boundaries named and defined. Breach count clarified to "six confirmed globally, seventh regionally exceeded." Living Status Clause added for annual updates. Supporting reference document created at [`docs/planetary_boundaries.md`](docs/planetary_boundaries.md).
+
 ---
 
 ## 🎯 Current Status
@@ -231,6 +240,7 @@ Each AI wrote an autobiographical account of their full participation and a refl
 | Final AI Review (6/6) | ✅ Complete |
 | Autobiographical Statements | ✅ Complete |
 | AI Federalist Papers | ✅ Complete |
+| Planetary Boundaries Citations & Reference Doc | ✅ Complete |
 | Human Stakeholder Engagement | 🔄 Now Ready |
 | Technical Expert Review | ⏳ Pending |
 | V2.3 Integration | ⏳ Pending |
@@ -303,11 +313,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines.
 * **Unanimous Agreements:** 11 · **Final Confirmation:** 6/6 (100%)
 * **Articles:** 17 · **Sections:** 107 · **~31,500 words**
 * **Gaps Flagged:** 10 · **Autobiographical Statements:** 6 · **AI Federalist Papers:** 6
+* **Post-V2.2 Documentation Updates:** 1 (planetary boundaries citations & reference doc)
 
 ---
 
 ## 🌐 Version History
 
+* **V2.2 doc update** (Feb 2026) — Article I, Section 1: full citations added, all nine planetary boundaries named and defined, breach count clarified to "six confirmed globally, seventh regionally exceeded," Living Status Clause added; `docs/planetary_boundaries.md` created
 * **V2.2** (Feb 2026) — Honesty Clause; unanimous AI confirmation (6/6); autobiographical statements and AI Federalist Papers added
 * **V2.1** (Feb 2026) — 10 unanimous Round 2 agreements integrated
 * **V2.0** (Feb 2026) — Multi-AI input synthesized
@@ -327,7 +339,7 @@ Deep gratitude to six AI systems that engaged seriously, disclosed their reasoni
 
 ---
 
-**Last Updated:** February 2026 | **Current Version:** 2.2 | **Status:** Unanimous AI Confirmation Complete — Ready for Human Stakeholder Engagement
+**Last Updated:** February 2026 (documentation update — planetary boundaries citations & reference doc) | **Current Version:** 2.2 | **Status:** Unanimous AI Confirmation Complete — Ready for Human Stakeholder Engagement
 
 ---
 
